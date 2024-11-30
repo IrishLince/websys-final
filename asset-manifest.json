@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/websys-final/static/css/main.2de86e2c.css",
-    "main.js": "/websys-final/static/js/main.52752e54.js",
-    "static/js/453.a661dc09.chunk.js": "/websys-final/static/js/453.a661dc09.chunk.js",
-    "static/media/Homeimg.png": "/websys-final/static/media/Homeimg.5e0d410d586753c3dde9.png",
-    "static/media/Aboutimage.png": "/websys-final/static/media/Aboutimage.07cc69954ddac8565eec.png",
-    "static/media/Contactimage.png": "/websys-final/static/media/Contactimage.33831c44637a28f77462.png",
-    "static/media/userpersona.png": "/websys-final/static/media/userpersona.c7d259d1624baabc6ea6.png",
-    "static/media/Moscow.png": "/websys-final/static/media/Moscow.dca02968a7a12e158214.png",
-    "index.html": "/websys-final/index.html",
-    "main.2de86e2c.css.map": "/websys-final/static/css/main.2de86e2c.css.map",
-    "main.52752e54.js.map": "/websys-final/static/js/main.52752e54.js.map",
-    "453.a661dc09.chunk.js.map": "/websys-final/static/js/453.a661dc09.chunk.js.map"
+    "main.css": "/home/static/css/main.2de86e2c.css",
+    "main.js": "/home/static/js/main.7ef64998.js",
+    "static/js/453.a661dc09.chunk.js": "/home/static/js/453.a661dc09.chunk.js",
+    "static/media/Homeimg.png": "/home/static/media/Homeimg.5e0d410d586753c3dde9.png",
+    "static/media/Aboutimage.png": "/home/static/media/Aboutimage.07cc69954ddac8565eec.png",
+    "static/media/Contactimage.png": "/home/static/media/Contactimage.33831c44637a28f77462.png",
+    "static/media/userpersona.png": "/home/static/media/userpersona.c7d259d1624baabc6ea6.png",
+    "static/media/Moscow.png": "/home/static/media/Moscow.dca02968a7a12e158214.png",
+    "index.html": "/home/index.html",
+    "main.2de86e2c.css.map": "/home/static/css/main.2de86e2c.css.map",
+    "main.7ef64998.js.map": "/home/static/js/main.7ef64998.js.map",
+    "453.a661dc09.chunk.js.map": "/home/static/js/453.a661dc09.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2de86e2c.css",
-    "static/js/main.52752e54.js"
+    "static/js/main.7ef64998.js"
   ]
 }
