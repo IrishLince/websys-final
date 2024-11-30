@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/static/css/main.2de86e2c.css",
-    "main.js": "/static/js/main.838b7043.js",
-    "static/js/453.a661dc09.chunk.js": "/static/js/453.a661dc09.chunk.js",
-    "static/media/Homeimg.png": "/static/media/Homeimg.5e0d410d586753c3dde9.png",
-    "static/media/Aboutimage.png": "/static/media/Aboutimage.07cc69954ddac8565eec.png",
-    "static/media/Contactimage.png": "/static/media/Contactimage.33831c44637a28f77462.png",
-    "static/media/userpersona.png": "/static/media/userpersona.c7d259d1624baabc6ea6.png",
-    "static/media/Moscow.png": "/static/media/Moscow.dca02968a7a12e158214.png",
-    "index.html": "/index.html",
-    "main.2de86e2c.css.map": "/static/css/main.2de86e2c.css.map",
-    "main.838b7043.js.map": "/static/js/main.838b7043.js.map",
-    "453.a661dc09.chunk.js.map": "/static/js/453.a661dc09.chunk.js.map"
+    "main.css": "/websys-final/home/static/css/main.2de86e2c.css",
+    "main.js": "/websys-final/home/static/js/main.f4a20ca5.js",
+    "static/js/453.a661dc09.chunk.js": "/websys-final/home/static/js/453.a661dc09.chunk.js",
+    "static/media/Homeimg.png": "/websys-final/home/static/media/Homeimg.5e0d410d586753c3dde9.png",
+    "static/media/Aboutimage.png": "/websys-final/home/static/media/Aboutimage.07cc69954ddac8565eec.png",
+    "static/media/Contactimage.png": "/websys-final/home/static/media/Contactimage.33831c44637a28f77462.png",
+    "static/media/userpersona.png": "/websys-final/home/static/media/userpersona.c7d259d1624baabc6ea6.png",
+    "static/media/Moscow.png": "/websys-final/home/static/media/Moscow.dca02968a7a12e158214.png",
+    "index.html": "/websys-final/home/index.html",
+    "main.2de86e2c.css.map": "/websys-final/home/static/css/main.2de86e2c.css.map",
+    "main.f4a20ca5.js.map": "/websys-final/home/static/js/main.f4a20ca5.js.map",
+    "453.a661dc09.chunk.js.map": "/websys-final/home/static/js/453.a661dc09.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2de86e2c.css",
-    "static/js/main.838b7043.js"
+    "static/js/main.f4a20ca5.js"
   ]
 }
