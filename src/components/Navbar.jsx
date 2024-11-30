@@ -73,7 +73,7 @@ function Navbar() {
           
           {/* Desktop Navigation */}
           <div className="hidden md:flex items-center space-x-4">
-            {['/', '/about', '/gallery', '/contact'].map((path, index) => {
+            {['/websys-final', '/about', '/gallery', '/contact'].map((path, index) => {
               const labels = ['Home', 'About Me', 'Gallery', 'Contact'];
               return (
                 <Link 
@@ -111,7 +111,7 @@ function Navbar() {
               exit="hidden"
               variants={menuVariants}
             >
-              {['/', '/about', '/gallery', '/contact'].map((path, index) => {
+              {['/websys-final', '/about', '/gallery', '/contact'].map((path, index) => {
                 const labels = ['Home', 'About Me', 'Gallery', 'Contact'];
                 return (
                   <motion.div 
