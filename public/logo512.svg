@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="512" height="512" viewBox="0 0 512 512" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="512" height="512" rx="96" fill="#1a1a1a"/>
+  
+  <!-- Letters "IL" -->
+  <text x="50%" y="50%" text-anchor="middle" dominant-baseline="central" 
+        font-family="Arial" font-weight="bold" font-size="256" fill="white">
+    IL
+  </text>
+  
+  <!-- Decorative underline -->
+  <rect x="128" y="352" width="256" height="32" fill="#3B82F6"/>
+</svg>
